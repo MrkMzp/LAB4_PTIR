@@ -208,6 +208,9 @@ int main()
 	initADC();
     sei();
     
+    int something;
+    
+    
 	short degree = 0;
     while (1) 
     {		
